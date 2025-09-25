@@ -1,7 +1,0 @@
-name: ServerTweaks
-version: '1.0-SNAPSHOT'
-main: ceptea.serverTweaks.ServerTweaks
-api-version: '1.21'
-prefix: boykisser
-authors: [ Ceptea ]
-description: hi my name ceptea i fix server
